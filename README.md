@@ -5,7 +5,7 @@ Android Jetpack's Navigation component helps you implement navigation, from simp
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
- [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started) - Allows navigation from one fragment to another
+- [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started) - Allows navigation from one fragment to another
  
  **Contributed By:** [Zeph](https://github.com/SefuZeph)
  
